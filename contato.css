@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contcontato{
+    background-color:rgb(194, 210, 210);
+    margin: 10px 45% 10px 45%;
+    padding: 5px 1px 5px 22px;
+    border-radius:7px
+}
+
+.contdivp{
+    margin: 30px 35% 70px 34.4%;
+}
+
+.contparagrafo{
+    display: inline;
+    padding: 10px 5px 10px 35px;
+}
+
+.contform{
+    background-color: rgb(128, 143, 148);
+    width:300px;
+    height:260px;
+    margin:1px 1px 1px 100px;
+    border-radius: 7px;
+    padding: 20px 1px 1px 1px
+}
+
+.contnome{
+    padding:2px 1px 10px 13px;
+    color:rgb(27, 27, 31)
+   
+}
+
+.continfor{
+    display:block;
+    padding:2px 1px 10px 133px;
+    color:rgb(27, 27, 31)
+}
+
+#contbutton{
+    background-color:rgb(252, 67, 95);
+    display:block;
+    padding: 7px 20px 7px 20px;
+    margin: 40px 1px 1px 110px;
+}
+
+#contbutton:hover{
+    background-color:rgb(230, 7, 7)
+}

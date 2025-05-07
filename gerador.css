@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.gerar_gerador{
+    background-color: rgb(255, 153, 0);
+    margin: 10px 40% 1px 40%;
+    padding: 5px 1px 7px 8px;
+    border-radius:7px;
+}
+
+.gerar_divp{
+    margin: 10px 0px 1px 0px;
+    padding: 30px 1px 30px 32%;
+    border-radius:1px;
+}
+
+.gerar_paragrafo{
+    display: inline;
+    padding: 10px 5px 10px 47px;
+}
+
+.gerar_descreva{
+    margin: 6px 1px 1px 50px;
+}
+
+.gerar_form{
+    margin: 10px 1px 1px 50px;
+}
+
+.gerar_imagem{
+    width:290px;
+    height:200px;
+    margin: 20px 1px 1px 50px;
+    border-radius:15px;
+}
