@@ -1,0 +1,270 @@
+*{
+    margin:0px;
+    padding:0;
+}
+.inicio_contener01{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.inicio_titulo{
+    background-color: rgb(250, 134, 40);
+    color:azure;
+    margin: 20px 1px 1px 50px;
+    border-radius:7px;
+}
+
+.inicio_links{
+    background-color: rgb(250, 134, 40);
+    height: 25px;
+    margin: 25px 1px 1px 1px;
+    padding: 3px 25px 1px 5px;
+    border-radius:1px;
+    border-radius: 7px;
+}
+
+.inicio_link{
+    display: inline;
+    padding: 10px 5px 10px 35px;
+}
+
+.inicio_divp{
+    margin: 1px 1px 5% 20%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.inicio_contener02{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.inicio_div_img{
+    border-radius: 5px;
+    background-color:rgb(4, 110, 167);  
+    width: 300.39px;
+    height:250px
+}
+
+.inicio_tabela{
+    background-color:rgb(248, 98, 11);
+    padding: 1px 15px 1px 1px;
+    border-radius: 7px;
+}
+
+.sob_titulo_link{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.sob_sobre{
+    background-color:rgb(249, 140, 16);
+    color:azure;
+    margin: 23px 1px 35px 28.5%;
+    padding:1px 10px 1px 10px;
+    height: 45px;
+    border-radius:7px;
+}
+
+.sob_links{
+    margin: 33px 45px 1px 1px;
+    padding: 5px 20px 1px 1px;
+    border-radius:1px;
+    border-radius: 7px;
+    height: 23px;
+    background-color: rgb(250, 134, 40);
+}
+
+.sob_link{
+    display: inline;
+    padding: 1px 5px 1px 35px;
+}
+
+.sob_objetivos{
+    margin: 2% 1px 1px 40%;
+    color:azure
+}
+
+.sob_tecnologias{
+    margin: 40px 1px 1px 41.5%;
+    color:rgb(11, 11, 11)
+}
+
+.gerar_titulo_link{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.gerar_gerador{
+    background-color: rgb(251, 131, 19);
+    color:azure;
+    margin: 30px 1px 5% 27%;
+    padding: 10px 20px 1px 20px;
+    border-radius:7px;
+    height: 50px;
+}
+
+.gerar_links{
+    background-color:rgb(251, 131, 19);
+    margin: 45px 20px 1px 1px;
+    padding: 4px 30px 1px 1px;
+    border-radius:1px;
+    height: 26px;
+    border-radius: 7px;
+}
+
+.gerar_div_descrever{
+    margin: 1px 1px 1px 38%;
+    padding: 1px 1px 1px 1px;
+}
+
+.gerar_link{
+    display: inline;
+    padding: 10px 5px 10px 35px;
+}
+
+.gerar_descreva{
+    margin: 6px 1px 1px 50px;
+}
+
+.gerar_form{
+    margin: 10px 1px 1px 50px;
+    padding: 1px 1px 1px 5px;
+}
+
+.gerar_imagem{
+    width:290px;
+    height:200px;
+    margin: 20px 1px 1px 50px;
+    border-radius:15px;
+}
+
+
+.gale_titulo_link{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(28, 29, 30);
+}
+
+#gale_galeria{
+    background-color:rgb(30, 36, 36);
+    color:azure;
+    margin: 30px 1px 35px 34%;
+    height: 60px;
+    padding: 20px 20px 0px 20px;
+    border-radius:7px;
+}
+
+.gale_links{
+    margin: 50px 30px 70px 8%;
+    background-color:rgb(30, 36, 36);
+    padding: 5px 10px 10px 10px;
+    border-radius: 7px;
+}
+
+.gale_link{
+
+    display: inline;
+    margin: 3px;
+    padding: 15px;
+    
+}
+
+.gale_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.gale_divs{
+    background-color: azure;
+    width: 350px;
+    height: 450px;
+    border-radius: 31px 31px 26px 26px;
+    margin: 30px 1px 1px 1px;
+}
+
+.gale_imagem{
+    width: 350px;
+    height: 300px;
+    border-radius: 27px 27px 1px 1px;
+}
+
+.gale_nome_img{
+    padding: 8px 1px 5px 97px;
+
+}
+
+.gale_paragrafo{
+    padding: 7px 10px 10px 20px;
+    color:rgb(39, 54, 59)
+}
+
+.gale_data{
+    padding: 1px 1px 1px 85px;
+}
+
+
+.cont_titulo_link{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 1px 1px 1px;
+}
+
+.contcontato{
+    background-color:rgb(249, 137, 9);
+    color:azure;
+    height: 50px;
+    margin: 20px 1px 10px 27%;
+    padding: 10px 30px 1px 30px;
+    border-radius:7px
+}
+
+.cont_links{
+    background-color:rgb(249, 137, 9);
+    height: 25px;
+    margin: 33px 55px 1px 1px;
+    padding: 5px 20px 1px 1px;
+    border-radius: 7px;
+}
+
+.contparagrafo{
+    display: inline;
+    padding: 10px 5px 10px 35px;
+}
+
+.contform{
+    background-color: rgb(236, 130, 10);
+    width:300px;
+    height:260px;
+    margin:50px 1px 1px 40%;
+    border-radius: 7px;
+    padding: 20px 1px 1px 1px
+}
+
+.contnome{
+    padding:2px 1px 10px 13px;
+    color:rgb(27, 27, 31)
+   
+}
+
+.continfor{
+    display:block;
+    padding:2px 1px 10px 133px;
+    color:rgb(27, 27, 31)
+}
+
+#contbutton{
+    background-color:rgb(252, 67, 95);
+    display:block;
+    padding: 7px 20px 7px 20px;
+    margin: 40px 1px 1px 110px;
+}
+
+#contbutton:hover{
+    background-color:rgb(230, 7, 7)
+}
